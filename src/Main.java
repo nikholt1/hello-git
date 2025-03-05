@@ -3,5 +3,8 @@ public class Main {
         System.out.println("Hello-git");
         System.out.println("version 32132");
         System.out.println("Hello from pB");
+        for (int i = 0; i < 100; i++) {
+            System.out.println("Gape");
+        }
     }
 }
